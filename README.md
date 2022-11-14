@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ethioendu
+- 👋 Hi, I’m Endalsh
 - 👀 I’m interested in 
-- 🌱 I’m currently learning programming 
-- 💞️ I’m looking to collaborate on programming 
-- 📫 How to reach me ethioendy21@gmail.com
+- 🌱 I’m currently learning program engineering
+- 💞️ I’m looking to collaborate on program engineering and related thnings 
+- 📫 How to reach me ethioendu21@gmail.com
 
 <!---
 ethioendu/ethioendu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
